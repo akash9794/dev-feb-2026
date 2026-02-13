@@ -1,0 +1,21 @@
+{
+  "name": "coders_gyan",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/akash9794/dev-feb-2026#readme",
+  "bugs": {
+    "url": "https://github.com/akash9794/dev-feb-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash9794/dev-feb-2026.git"
+  },
+  "license": "ISC",
+  "author": "Akash Shukla <akashalf719@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
