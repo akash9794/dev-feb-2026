@@ -2,10 +2,12 @@ function welcome(name: string) {
     console.log('Hello, ' + name)
 
     const user = {
-        firstName: "Akash",
+        firstName: 'Akash',
     }
 
-    const fname = user.firstName;
+    const fname = user.firstName
+
+    console.log(fname)
 }
 
 welcome('akash')
